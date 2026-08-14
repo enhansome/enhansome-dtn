@@ -14,7 +14,7 @@
             "last_commit": "2026-07-22T20:54:31Z",
             "owner": "nasa",
             "repo": "HDTN",
-            "stars": 144
+            "stars": 145
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-07-22T20:54:31Z",
             "owner": "nasa",
             "repo": "HDTN",
-            "stars": 144
+            "stars": 145
           }
         },
         {
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:43:35.504Z",
+    "last_updated": "2026-08-14T19:36:26.126Z",
     "original_repository": "dtn7/awesome-dtn",
     "original_repository_sha": "e8faaf142590a827ce944f2e476a9f10f5cb1d39",
     "enhanced_repository": "enhansome/enhansome-dtn",
