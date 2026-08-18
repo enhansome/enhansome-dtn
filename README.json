@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T14:08:52Z",
+            "last_commit": "2026-08-18T17:23:12Z",
             "owner": "NASA-AMMOS",
             "repo": "BSL",
             "stars": 11
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:15:45.409Z",
+    "last_updated": "2026-08-18T19:16:01.487Z",
     "original_repository": "dtn7/awesome-dtn",
     "original_repository_sha": "e8faaf142590a827ce944f2e476a9f10f5cb1d39",
     "enhanced_repository": "enhansome/enhansome-dtn",
