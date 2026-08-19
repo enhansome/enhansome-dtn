@@ -15,7 +15,7 @@
             "last_commit": "2026-07-22T20:54:31Z",
             "owner": "nasa",
             "repo": "HDTN",
-            "stars": 145
+            "stars": 146
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-27T07:41:17Z",
             "owner": "dtn7",
             "repo": "dtn7-rs",
-            "stars": 111
+            "stars": 112
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 782077208,
             "language": "C",
-            "last_commit": "2026-08-18T17:23:12Z",
+            "last_commit": "2026-08-19T18:53:05Z",
             "owner": "NASA-AMMOS",
             "repo": "BSL",
             "stars": 11
@@ -141,7 +141,7 @@
             "last_commit": "2026-07-22T20:54:31Z",
             "owner": "nasa",
             "repo": "HDTN",
-            "stars": 145
+            "stars": 146
           }
         },
         {
@@ -356,7 +356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:24:26.397Z",
+    "last_updated": "2026-08-19T19:06:40.080Z",
     "original_repository": "dtn7/awesome-dtn",
     "original_repository_id": 343801805,
     "original_repository_sha": "e8faaf142590a827ce944f2e476a9f10f5cb1d39",

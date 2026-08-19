@@ -12,13 +12,13 @@
 
 ## Bundle Protocol Version 7 - RFC 9171
 
-* [HDTN](https://github.com/nasa/HDTN) ⭐ 145 | 🐛 32 | 🌐 C++ | 📅 2026-07-22 - High-rate Delay Tolerant Network (HDTN) Software
-* [dtn7-rs](https://github.com/dtn7/dtn7-rs) ⭐ 111 | 🐛 8 | 🌐 Rust | 📅 2026-05-27 - Rust implementation of a DTN based on RFC9171
+* [HDTN](https://github.com/nasa/HDTN) ⭐ 146 | 🐛 32 | 🌐 C++ | 📅 2026-07-22 - High-rate Delay Tolerant Network (HDTN) Software
+* [dtn7-rs](https://github.com/dtn7/dtn7-rs) ⭐ 112 | 🐛 8 | 🌐 Rust | 📅 2026-05-27 - Rust implementation of a DTN based on RFC9171
 * [dtn7-go](https://github.com/dtn7/dtn7-go) ⭐ 33 | 🐛 1 | 🌐 Go | 📅 2026-02-24 - Delay-tolerant networking software suite
 * [DTNME](https://github.com/nasa/DTNME) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2024-05-29 - DTN Marshal Enterprise Implementation
 * [TERRA](https://github.com/RightMesh/Terra/) ⭐ 19 | 🐛 2 | 🌐 Java | 📅 2020-03-28 - Lightweight and extensible DTN library
 * [dtn7-kotlin](https://github.com/NodleCode/dtn7-kotlin/) ⭐ 13 | 🐛 1 | 🌐 Kotlin | 📅 2022-12-22 - Delay-tolerant networking software suite for Kotlin
-* [NASA AMMOS BSL](https://github.com/NASA-AMMOS/BSL) ⭐ 11 | 🐛 29 | 🌐 C | 📅 2026-08-18 - C99 library implementation of Bundle Protocol Security (BPSec) as specified in RFC 9172 and RFC 9173
+* [NASA AMMOS BSL](https://github.com/NASA-AMMOS/BSL) ⭐ 11 | 🐛 29 | 🌐 C | 📅 2026-08-19 - C99 library implementation of Bundle Protocol Security (BPSec) as specified in RFC 9172 and RFC 9173
 * [dtn7zero](https://github.com/dtn7/dtn7zero) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-10-11 - A python implementation of BPv7 in the spirit of the NetworkZero and GuiZero libraries
 * [rfc9171](https://tools.ietf.org/html/rfc9171) - Bundle Protocol Specification Version 7
 * [rfc9172](https://tools.ietf.org/html/rfc9172) - Bundle Protocol Security Specification Version 7
@@ -29,7 +29,7 @@
 
 ## Bundle Protocol Version 6 - RFC 5050
 
-* [HDTN](https://github.com/nasa/HDTN) ⭐ 145 | 🐛 32 | 🌐 C++ | 📅 2026-07-22 - High-rate Delay Tolerant Network (HDTN) Software
+* [HDTN](https://github.com/nasa/HDTN) ⭐ 146 | 🐛 32 | 🌐 C++ | 📅 2026-07-22 - High-rate Delay Tolerant Network (HDTN) Software
 * [IBR-DTN](https://github.com/ibrdtn/ibrdtn) ⭐ 84 | 🐛 45 | 🌐 C++ | 📅 2024-10-04 - A modular and lightweight implementation of the bundle protocol.
 * [DTNME](https://github.com/nasa/DTNME) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2024-05-29 - DTN Marshal Enterprise Implementation
 * [DTN2](https://github.com/delay-tolerant-networking/DTN2) ⭐ 24 | 🐛 0 | 🌐 C++ | 📅 2016-06-28 - DTN Reference Implementation
