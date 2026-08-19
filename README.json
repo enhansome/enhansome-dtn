@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313757356,
             "language": "C++",
             "last_commit": "2026-07-22T20:54:31Z",
             "owner": "nasa",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178023077,
             "language": "Rust",
             "last_commit": "2026-05-27T07:41:17Z",
             "owner": "dtn7",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 655719039,
             "language": "Go",
             "last_commit": "2026-02-24T11:22:32Z",
             "owner": "dtn7",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253875914,
             "language": "C++",
             "last_commit": "2024-05-29T16:43:36Z",
             "owner": "nasa",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155342006,
             "language": "Java",
             "last_commit": "2020-03-28T04:52:39Z",
             "owner": "RightMesh",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 338552749,
             "language": "Kotlin",
             "last_commit": "2022-12-22T12:11:11Z",
             "owner": "NodleCode",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 782077208,
             "language": "C",
             "last_commit": "2026-08-18T17:23:12Z",
             "owner": "NASA-AMMOS",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629996238,
             "language": "Python",
             "last_commit": "2023-10-11T14:17:26Z",
             "owner": "dtn7",
@@ -119,7 +127,7 @@
       "title": "Bundle Protocol Version 7 - RFC 9171"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313757356,
             "language": "C++",
             "last_commit": "2026-07-22T20:54:31Z",
             "owner": "nasa",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8705653,
             "language": "C++",
             "last_commit": "2024-10-04T09:48:26Z",
             "owner": "ibrdtn",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253875914,
             "language": "C++",
             "last_commit": "2024-05-29T16:43:36Z",
             "owner": "nasa",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62075590,
             "language": "C++",
             "last_commit": "2016-06-28T18:02:31Z",
             "owner": "delay-tolerant-networking",
@@ -181,7 +193,7 @@
       "title": "Bundle Protocol Version 6 - RFC 5050"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1363769,
             "language": "C",
             "last_commit": "2022-06-02T02:38:47Z",
             "owner": "servalproject",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 463016,
             "language": "Python",
             "last_commit": "2026-08-02T21:20:06Z",
             "owner": "adulau",
@@ -215,7 +229,7 @@
       "title": "Non Bundle Protocol"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40714325,
             "language": "Java",
             "last_commit": "2024-12-09T19:58:35Z",
             "owner": "akeranen",
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83729728,
             "language": "C++",
             "last_commit": "2023-10-17T09:51:14Z",
             "owner": "ComNets-Bremen",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160646489,
             "language": "Python",
             "last_commit": "2022-12-09T05:20:56Z",
             "owner": "ducktec",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 633816629,
             "language": "Jupyter Notebook",
             "last_commit": "2025-07-25T14:11:27Z",
             "owner": "gh0st42",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65334961,
             "language": "Jupyter Notebook",
             "last_commit": "2018-06-02T07:51:44Z",
             "owner": "bit-oh-my-god",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195662353,
             "language": "Python",
             "last_commit": "2026-05-20T06:01:35Z",
             "owner": "h-ohsaki",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5150488,
             "language": "Python",
             "last_commit": "2012-07-23T10:59:54Z",
             "owner": "sergiosvieira",
@@ -322,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157779996,
             "language": "C++",
             "last_commit": "2019-06-24T12:19:08Z",
             "owner": "ComNets-Bremen",
@@ -334,8 +356,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:16:01.487Z",
+    "last_updated": "2026-08-19T12:24:26.397Z",
     "original_repository": "dtn7/awesome-dtn",
+    "original_repository_id": 343801805,
     "original_repository_sha": "e8faaf142590a827ce944f2e476a9f10f5cb1d39",
     "enhanced_repository": "enhansome/enhansome-dtn",
     "enhanced_repository_description": null,
