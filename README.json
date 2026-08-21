@@ -30,7 +30,7 @@
             "last_commit": "2026-05-27T07:41:17Z",
             "owner": "dtn7",
             "repo": "dtn7-rs",
-            "stars": 112
+            "stars": 111
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 782077208,
             "language": "C",
-            "last_commit": "2026-08-20T18:49:03Z",
+            "last_commit": "2026-08-21T14:41:50Z",
             "owner": "NASA-AMMOS",
             "repo": "BSL",
             "stars": 11
@@ -120,7 +120,7 @@
             "last_commit": "2023-10-11T14:17:26Z",
             "owner": "dtn7",
             "repo": "dtn7zero",
-            "stars": 8
+            "stars": 7
           }
         }
       ],
@@ -207,7 +207,7 @@
             "last_commit": "2022-06-02T02:38:47Z",
             "owner": "servalproject",
             "repo": "serval-dna",
-            "stars": 178
+            "stars": 177
           }
         },
         {
@@ -356,7 +356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:18:29.157Z",
+    "last_updated": "2026-08-21T19:13:51.388Z",
     "original_repository": "dtn7/awesome-dtn",
     "original_repository_id": 343801805,
     "original_repository_sha": "e8faaf142590a827ce944f2e476a9f10f5cb1d39",
