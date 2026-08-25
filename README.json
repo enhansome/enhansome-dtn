@@ -102,7 +102,7 @@
             "archived": false,
             "id": 782077208,
             "language": "C",
-            "last_commit": "2026-08-24T14:23:24Z",
+            "last_commit": "2026-08-24T20:11:25Z",
             "owner": "NASA-AMMOS",
             "repo": "BSL",
             "stars": 11
@@ -356,7 +356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:17:04.431Z",
+    "last_updated": "2026-08-25T06:36:29.276Z",
     "original_repository": "dtn7/awesome-dtn",
     "original_repository_id": 343801805,
     "original_repository_sha": "e8faaf142590a827ce944f2e476a9f10f5cb1d39",
