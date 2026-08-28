@@ -80,6 +80,21 @@
         },
         {
           "node_type": "item",
+          "title": "NASA AMMOS BSL",
+          "description": "C99 library implementation of Bundle Protocol Security (BPSec) as specified in RFC 9172 and RFC 9173",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 782077208,
+            "language": "C",
+            "last_commit": "2026-08-27T18:27:20Z",
+            "owner": "NASA-AMMOS",
+            "repo": "BSL",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
           "title": "dtn7-kotlin",
           "description": "Delay-tolerant networking software suite for Kotlin",
           "children": [],
@@ -91,21 +106,6 @@
             "owner": "NodleCode",
             "repo": "dtn7-kotlin",
             "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NASA AMMOS BSL",
-          "description": "C99 library implementation of Bundle Protocol Security (BPSec) as specified in RFC 9172 and RFC 9173",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 782077208,
-            "language": "C",
-            "last_commit": "2026-08-26T19:24:33Z",
-            "owner": "NASA-AMMOS",
-            "repo": "BSL",
-            "stars": 12
           }
         },
         {
@@ -356,7 +356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:47.909Z",
+    "last_updated": "2026-08-28T02:20:21.501Z",
     "original_repository_info": {
       "archived": false,
       "id": 343801805,
