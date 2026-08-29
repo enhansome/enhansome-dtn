@@ -16,7 +16,8 @@
             "owner": "nasa",
             "repo": "HDTN",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "dtn7",
             "repo": "dtn7-rs",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "dtn7",
             "repo": "dtn7-go",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "nasa",
             "repo": "DTNME",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "RightMesh",
             "repo": "Terra",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 782077208,
             "language": "C",
-            "last_commit": "2026-08-27T18:27:20Z",
+            "last_commit": "2026-08-28T18:47:54Z",
             "owner": "NASA-AMMOS",
             "repo": "BSL",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "NodleCode",
             "repo": "dtn7-kotlin",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "dtn7",
             "repo": "dtn7zero",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         }
       ],
       "title": "Bundle Protocol Version 7 - RFC 9171"
@@ -142,7 +150,8 @@
             "owner": "nasa",
             "repo": "HDTN",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "ibrdtn",
             "repo": "ibrdtn",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "nasa",
             "repo": "DTNME",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "delay-tolerant-networking",
             "repo": "DTN2",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         }
       ],
       "title": "Bundle Protocol Version 6 - RFC 5050"
@@ -208,7 +220,8 @@
             "owner": "servalproject",
             "repo": "serval-dna",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "adulau",
             "repo": "Forban",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         }
       ],
       "title": "Non Bundle Protocol"
@@ -244,7 +258,8 @@
             "owner": "akeranen",
             "repo": "the-one",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "ComNets-Bremen",
             "repo": "OPS",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "ducktec",
             "repo": "pydtnsim",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "gh0st42",
             "repo": "PONS",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "bit-oh-my-god",
             "repo": "ns3-dtn-bit",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "h-ohsaki",
             "repo": "dtnsim",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "sergiosvieira",
             "repo": "ns3-dtn",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         },
         {
           "node_type": "item",
@@ -349,14 +370,15 @@
             "owner": "ComNets-Bremen",
             "repo": "OPSLite",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
         }
       ],
       "title": "DTN Simulations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:20:21.501Z",
+    "last_updated": "2026-08-29T01:54:50.929Z",
     "original_repository_info": {
       "archived": false,
       "id": 343801805,
