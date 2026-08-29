@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-rate Delay Tolerant Network (HDTN) Software",
+            "homepage": "https://www1.grc.nasa.gov/space/scan/acs/tech-studies/dtn/",
             "id": 313757356,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T20:54:31Z",
+            "open_issues": 32,
             "owner": "nasa",
             "repo": "HDTN",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "dtn"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -26,12 +33,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust implementation of a DTN based on RFC 9171",
+            "homepage": null,
             "id": 178023077,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-27T07:41:17Z",
+            "open_issues": 8,
             "owner": "dtn7",
             "repo": "dtn7-rs",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "bundle-protocol",
+              "delay-tolerant-network",
+              "dtn",
+              "dtn-bpbis",
+              "opportunistic-networking",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -42,12 +61,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Delay-tolerant networking software suite, Bundle Protocol Version 7 ",
+            "homepage": "https://dtn7.github.io",
             "id": 655719039,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-24T11:22:32Z",
+            "open_issues": 1,
             "owner": "dtn7",
             "repo": "dtn7-go",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "bundle-protocol",
+              "delay-tolerant-network",
+              "dtn",
+              "dtn7",
+              "rfc9171"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -58,12 +88,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 253875914,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-29T16:43:36Z",
+            "open_issues": 1,
             "owner": "nasa",
             "repo": "DTNME",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -74,12 +109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight and extensible DTN library",
+            "homepage": null,
             "id": 155342006,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-03-28T04:52:39Z",
+            "open_issues": 2,
             "owner": "RightMesh",
             "repo": "Terra",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -90,12 +130,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bundle Protocol Security Library (BSL)",
+            "homepage": "https://nasa-ammos.github.io/BSL/",
             "id": 782077208,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:47:54Z",
+            "open_issues": 31,
             "owner": "NASA-AMMOS",
             "repo": "BSL",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "bpsec",
+              "bpv7",
+              "c99",
+              "cose",
+              "openssl-bindings"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -106,12 +157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Delay-tolerant networking software suite for Kotlin, Bundle Protocol Version 7",
+            "homepage": null,
             "id": 338552749,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-22T12:11:11Z",
+            "open_issues": 1,
             "owner": "NodleCode",
             "repo": "dtn7-kotlin",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -122,12 +178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python implementation in the spirit of the NetworkZero and GuiZero libraries",
+            "homepage": null,
             "id": 629996238,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2023-10-11T14:17:26Z",
+            "open_issues": 0,
             "owner": "dtn7",
             "repo": "dtn7zero",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         }
@@ -144,12 +205,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-rate Delay Tolerant Network (HDTN) Software",
+            "homepage": "https://www1.grc.nasa.gov/space/scan/acs/tech-studies/dtn/",
             "id": 313757356,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T20:54:31Z",
+            "open_issues": 32,
             "owner": "nasa",
             "repo": "HDTN",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "dtn"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -160,12 +228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular and lightweight implementation of the bundle protocol.",
+            "homepage": null,
             "id": 8705653,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-10-04T09:48:26Z",
+            "open_issues": 45,
             "owner": "ibrdtn",
             "repo": "ibrdtn",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -176,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 253875914,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-29T16:43:36Z",
+            "open_issues": 1,
             "owner": "nasa",
             "repo": "DTNME",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -192,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DTN Reference Implementation",
+            "homepage": null,
             "id": 62075590,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2016-06-28T18:02:31Z",
+            "open_issues": 0,
             "owner": "delay-tolerant-networking",
             "repo": "DTN2",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         }
@@ -214,12 +297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Serval Project's core daemon that implements Distributed Numbering Architecture (DNA), MDP, VoMP, Rhizome, MeshMS, etc.",
+            "homepage": "http://servalproject.org",
             "id": 1363769,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-02T02:38:47Z",
+            "open_issues": 42,
             "owner": "servalproject",
             "repo": "serval-dna",
-            "stars": 177
+            "stars": 177,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -230,12 +318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Forban is a p2p application for link-local and local area networks.  Forban works independently from the Internet and uses only the local area capabilities to announce, discover, search or share files. Forban relies on HTTP and it is \"opportunistic\".",
+            "homepage": "http://www.foo.be/forban/",
             "id": 463016,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-02T21:20:06Z",
+            "open_issues": 10,
             "owner": "adulau",
             "repo": "Forban",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         }
@@ -252,12 +345,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Opportunistic Network Environment simulator",
+            "homepage": null,
             "id": 40714325,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-09T19:58:35Z",
+            "open_issues": 48,
             "owner": "akeranen",
             "repo": "the-one",
-            "stars": 244
+            "stars": 244,
+            "topics": [
+              "delay-tolerant-network",
+              "simulator"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -268,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opportunistic Protocol Simulator",
+            "homepage": null,
             "id": 83729728,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-17T09:51:14Z",
+            "open_issues": 4,
             "owner": "ComNets-Bremen",
             "repo": "OPS",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -284,12 +390,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An event-discrete DTN simulation environment written in Python. Focused on evaluating routing approaches.",
+            "homepage": null,
             "id": 160646489,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-09T05:20:56Z",
+            "open_issues": 11,
             "owner": "ducktec",
             "repo": "pydtnsim",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "cgr",
+              "delay-tolerant-network",
+              "dtn",
+              "network",
+              "python",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -300,12 +418,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Python Opportunistic Network Simulator. Run DTN simulations using SimPy.",
+            "homepage": null,
             "id": 633816629,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-07-25T14:11:27Z",
+            "open_issues": 3,
             "owner": "gh0st42",
             "repo": "PONS",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -316,12 +439,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "this is a module for ns3 to support dtn",
+            "homepage": null,
             "id": 65334961,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2018-06-02T07:51:44Z",
+            "open_issues": 0,
             "owner": "bit-oh-my-god",
             "repo": "ns3-dtn-bit",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "dtn",
+              "ns3"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -332,12 +463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DTN (Delay/Disruption Tolerant Networking) simulator",
+            "homepage": null,
             "id": 195662353,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-20T06:01:35Z",
+            "open_issues": 1,
             "owner": "h-ohsaki",
             "repo": "dtnsim",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -348,12 +484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NS3 and DTN Protocolo",
+            "homepage": null,
             "id": 5150488,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2012-07-23T10:59:54Z",
+            "open_issues": 0,
             "owner": "sergiosvieira",
             "repo": "ns3-dtn",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         },
@@ -364,12 +505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight Opportunistic Networking simulator in OMNeT++",
+            "homepage": null,
             "id": 157779996,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2019-06-24T12:19:08Z",
+            "open_issues": 0,
             "owner": "ComNets-Bremen",
             "repo": "OPSLite",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
         }
@@ -378,15 +524,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:54:50.929Z",
+    "last_updated": "2026-08-29T05:02:20.268Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome delay- and disruption-tolerant networking",
+      "homepage": null,
       "id": 343801805,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-10-20T06:02:56Z",
+      "open_issues": 1,
       "owner": "dtn7",
       "repo": "awesome-dtn",
-      "stars": 66
+      "stars": 66,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "delay-tolerant-network",
+        "disruption-tolerant-network",
+        "dtn",
+        "opportunistic-networking"
+      ]
     },
     "original_repository_sha": "e8faaf142590a827ce944f2e476a9f10f5cb1d39",
     "enhanced_repository": "enhansome/enhansome-dtn",
