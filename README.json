@@ -135,8 +135,8 @@
             "id": 782077208,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T19:31:41Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-11T13:44:34Z",
+            "open_issues": 33,
             "owner": "NASA-AMMOS",
             "repo": "BSL",
             "stars": 14,
@@ -306,7 +306,7 @@
             "open_issues": 42,
             "owner": "servalproject",
             "repo": "serval-dna",
-            "stars": 177,
+            "stars": 176,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:12:09.248Z",
+    "last_updated": "2026-09-11T21:18:29.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
