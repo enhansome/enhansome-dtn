@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:18:29.565Z",
+    "last_updated": "2026-09-12T20:57:59.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
@@ -536,7 +536,7 @@
       "open_issues": 1,
       "owner": "dtn7",
       "repo": "awesome-dtn",
-      "stars": 66,
+      "stars": 65,
       "topics": [
         "awesome",
         "awesome-list",
