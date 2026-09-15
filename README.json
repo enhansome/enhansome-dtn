@@ -19,7 +19,7 @@
             "open_issues": 32,
             "owner": "nasa",
             "repo": "HDTN",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "dtn"
             ]
@@ -135,8 +135,8 @@
             "id": 782077208,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T20:10:31Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-15T18:19:47Z",
+            "open_issues": 31,
             "owner": "NASA-AMMOS",
             "repo": "BSL",
             "stars": 14,
@@ -214,7 +214,7 @@
             "open_issues": 32,
             "owner": "nasa",
             "repo": "HDTN",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "dtn"
             ]
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T22:03:00.396Z",
+    "last_updated": "2026-09-15T21:45:21.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
