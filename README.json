@@ -16,7 +16,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-07-22T20:54:31Z",
-            "open_issues": 32,
+            "open_issues": 34,
             "owner": "nasa",
             "repo": "HDTN",
             "stars": 148,
@@ -135,7 +135,7 @@
             "id": 782077208,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T18:19:47Z",
+            "last_commit": "2026-09-16T20:08:37Z",
             "open_issues": 31,
             "owner": "NASA-AMMOS",
             "repo": "BSL",
@@ -211,7 +211,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-07-22T20:54:31Z",
-            "open_issues": 32,
+            "open_issues": 34,
             "owner": "nasa",
             "repo": "HDTN",
             "stars": 148,
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T21:45:21.018Z",
+    "last_updated": "2026-09-16T21:43:11.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
