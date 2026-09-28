@@ -354,7 +354,7 @@
             "open_issues": 48,
             "owner": "akeranen",
             "repo": "the-one",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "delay-tolerant-network",
               "simulator"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T21:37:30.908Z",
+    "last_updated": "2026-09-28T23:30:19.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
