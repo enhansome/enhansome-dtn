@@ -136,7 +136,7 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-09-29T17:33:48Z",
-            "open_issues": 25,
+            "open_issues": 24,
             "owner": "NASA-AMMOS",
             "repo": "BSL",
             "stars": 14,
@@ -354,7 +354,7 @@
             "open_issues": 48,
             "owner": "akeranen",
             "repo": "the-one",
-            "stars": 246,
+            "stars": 247,
             "topics": [
               "delay-tolerant-network",
               "simulator"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T22:37:40.574Z",
+    "last_updated": "2026-10-01T22:54:22.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",

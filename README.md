@@ -17,7 +17,7 @@
 * [dtn7-go](https://github.com/dtn7/dtn7-go) ⭐ 33 | 🐛 1 | 🌐 Go | 📅 2026-02-24 - Delay-tolerant networking software suite
 * [DTNME](https://github.com/nasa/DTNME) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2024-05-29 - DTN Marshal Enterprise Implementation
 * [TERRA](https://github.com/RightMesh/Terra/) ⭐ 19 | 🐛 2 | 🌐 Java | 📅 2020-03-28 - Lightweight and extensible DTN library
-* [NASA AMMOS BSL](https://github.com/NASA-AMMOS/BSL) ⭐ 14 | 🐛 25 | 🌐 C | 📅 2026-09-29 - C99 library implementation of Bundle Protocol Security (BPSec) as specified in RFC 9172 and RFC 9173
+* [NASA AMMOS BSL](https://github.com/NASA-AMMOS/BSL) ⭐ 14 | 🐛 24 | 🌐 C | 📅 2026-09-29 - C99 library implementation of Bundle Protocol Security (BPSec) as specified in RFC 9172 and RFC 9173
 * [dtn7-kotlin](https://github.com/NodleCode/dtn7-kotlin/) ⭐ 13 | 🐛 1 | 🌐 Kotlin | 📅 2022-12-22 - Delay-tolerant networking software suite for Kotlin
 * [dtn7zero](https://github.com/dtn7/dtn7zero) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-10-11 - A python implementation of BPv7 in the spirit of the NetworkZero and GuiZero libraries
 * [rfc9171](https://tools.ietf.org/html/rfc9171) - Bundle Protocol Specification Version 7
@@ -44,7 +44,7 @@
 
 ## DTN Simulations
 
-* [TheONE](https://github.com/akeranen/the-one) ⭐ 246 | 🐛 48 | 🌐 Java | 📅 2024-12-09 - The Opportunistic Network Environment simulator.
+* [TheONE](https://github.com/akeranen/the-one) ⭐ 247 | 🐛 48 | 🌐 Java | 📅 2024-12-09 - The Opportunistic Network Environment simulator.
 * [OPS](https://github.com/ComNets-Bremen/OPS) ⭐ 15 | 🐛 4 | 🌐 C++ | 📅 2023-10-17 - The Opportunistic Protocol Simulator (OPS, pronounced as oops!!!) is a set of simulation models for OMNeT++ to simulate opportunistic networks.
 * [pydtnsim](https://github.com/ducktec/pydtnsim) ⭐ 14 | 🐛 11 | 🌐 Python | 📅 2022-12-09 - An event-discrete DTN simulation environment written in Python. Focused on evaluating routing approaches.
 * [PONS](https://github.com/gh0st42/PONS) ⭐ 13 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-07-25 - The Python Opportunistic Network Simulator. Run DTN simulations using SimPy.
@@ -69,4 +69,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
