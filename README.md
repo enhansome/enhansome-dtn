@@ -39,7 +39,7 @@
 
 ## Non Bundle Protocol
 
-* [Serval Rhizome](https://github.com/servalproject/serval-dna) ⭐ 176 | 🐛 42 | 🌐 C | 📅 2022-06-02 - Content storage and distribution service
+* [Serval Rhizome](https://github.com/servalproject/serval-dna) ⭐ 177 | 🐛 42 | 🌐 C | 📅 2022-06-02 - Content storage and distribution service
 * [Forban](https://github.com/adulau/Forban) ⭐ 135 | 🐛 10 | 🌐 Python | 📅 2026-08-02 - Simple link-local opportunistic p2p free software
 
 ## DTN Simulations
