@@ -15,7 +15,7 @@
 * [HDTN](https://github.com/nasa/HDTN) ⭐ 150 | 🐛 36 | 🌐 C++ | 📅 2026-07-22 - High-rate Delay Tolerant Network (HDTN) Software
 * [dtn7-rs](https://github.com/dtn7/dtn7-rs) ⭐ 112 | 🐛 6 | 🌐 Rust | 📅 2026-09-09 - Rust implementation of a DTN based on RFC9171
 * [dtn7-go](https://github.com/dtn7/dtn7-go) ⭐ 33 | 🐛 1 | 🌐 Go | 📅 2026-02-24 - Delay-tolerant networking software suite
-* [DTNME](https://github.com/nasa/DTNME) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2024-05-29 - DTN Marshal Enterprise Implementation
+* [DTNME](https://github.com/nasa/DTNME) ⭐ 25 | 🐛 2 | 🌐 C++ | 📅 2024-05-29 - DTN Marshal Enterprise Implementation
 * [TERRA](https://github.com/RightMesh/Terra/) ⭐ 19 | 🐛 2 | 🌐 Java | 📅 2020-03-28 - Lightweight and extensible DTN library
 * [NASA AMMOS BSL](https://github.com/NASA-AMMOS/BSL) ⭐ 14 | 🐛 24 | 🌐 C | 📅 2026-10-06 - C99 library implementation of Bundle Protocol Security (BPSec) as specified in RFC 9172 and RFC 9173
 * [dtn7-kotlin](https://github.com/NodleCode/dtn7-kotlin/) ⭐ 13 | 🐛 1 | 🌐 Kotlin | 📅 2022-12-22 - Delay-tolerant networking software suite for Kotlin
@@ -31,7 +31,7 @@
 
 * [HDTN](https://github.com/nasa/HDTN) ⭐ 150 | 🐛 36 | 🌐 C++ | 📅 2026-07-22 - High-rate Delay Tolerant Network (HDTN) Software
 * [IBR-DTN](https://github.com/ibrdtn/ibrdtn) ⭐ 84 | 🐛 45 | 🌐 C++ | 📅 2026-09-02 - A modular and lightweight implementation of the bundle protocol.
-* [DTNME](https://github.com/nasa/DTNME) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2024-05-29 - DTN Marshal Enterprise Implementation
+* [DTNME](https://github.com/nasa/DTNME) ⭐ 25 | 🐛 2 | 🌐 C++ | 📅 2024-05-29 - DTN Marshal Enterprise Implementation
 * [DTN2](https://github.com/delay-tolerant-networking/DTN2) ⭐ 24 | 🐛 0 | 🌐 C++ | 📅 2016-06-28 - DTN Reference Implementation
 * [rfc5050](https://tools.ietf.org/html/rfc5050) - Bundle Protocol Specification
 * [rfc6257](https://tools.ietf.org/html/rfc6257) - Bundle Security Protocol Specification
@@ -69,4 +69,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

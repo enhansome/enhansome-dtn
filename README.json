@@ -94,7 +94,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2024-05-29T16:43:36Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "nasa",
             "repo": "DTNME",
             "stars": 25,
@@ -255,7 +255,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2024-05-29T16:43:36Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "nasa",
             "repo": "DTNME",
             "stars": 25,
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:47:44.626Z",
+    "last_updated": "2026-10-07T23:18:55.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
