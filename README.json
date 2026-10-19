@@ -42,7 +42,7 @@
             "open_issues": 8,
             "owner": "dtn7",
             "repo": "dtn7-rs",
-            "stars": 112,
+            "stars": 113,
             "topics": [
               "bundle-protocol",
               "delay-tolerant-network",
@@ -136,10 +136,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T19:54:20Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "NASA-AMMOS",
             "repo": "BSL",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "bpsec",
               "bpv7",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:02:11.735Z",
+    "last_updated": "2026-10-19T22:38:13.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
