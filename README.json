@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "nasa",
             "repo": "HDTN",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "dtn"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 8,
             "owner": "dtn7",
             "repo": "dtn7-rs",
-            "stars": 113,
+            "stars": 114,
             "topics": [
               "bundle-protocol",
               "delay-tolerant-network",
@@ -214,7 +214,7 @@
             "open_issues": 38,
             "owner": "nasa",
             "repo": "HDTN",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "dtn"
             ]
@@ -244,6 +244,27 @@
         },
         {
           "node_type": "item",
+          "title": "DTN2",
+          "description": "DTN Reference Implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "DTN Reference Implementation",
+            "homepage": null,
+            "id": 62075590,
+            "language": "C++",
+            "license": "Apache-2.0",
+            "last_commit": "2016-06-28T18:02:31Z",
+            "open_issues": 0,
+            "owner": "delay-tolerant-networking",
+            "repo": "DTN2",
+            "stars": 25,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:54:50.929Z"
+        },
+        {
+          "node_type": "item",
           "title": "DTNME",
           "description": "DTN Marshal Enterprise Implementation",
           "children": [],
@@ -259,27 +280,6 @@
             "owner": "nasa",
             "repo": "DTNME",
             "stars": 25,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:54:50.929Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DTN2",
-          "description": "DTN Reference Implementation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DTN Reference Implementation",
-            "homepage": null,
-            "id": 62075590,
-            "language": "C++",
-            "license": "Apache-2.0",
-            "last_commit": "2016-06-28T18:02:31Z",
-            "open_issues": 0,
-            "owner": "delay-tolerant-networking",
-            "repo": "DTN2",
-            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:38:13.540Z",
+    "last_updated": "2026-10-20T21:52:34.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",

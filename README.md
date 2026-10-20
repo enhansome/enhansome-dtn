@@ -12,8 +12,8 @@
 
 ## Bundle Protocol Version 7 - RFC 9171
 
-* [HDTN](https://github.com/nasa/HDTN) ⭐ 150 | 🐛 38 | 🌐 C++ | 📅 2026-07-22 - High-rate Delay Tolerant Network (HDTN) Software
-* [dtn7-rs](https://github.com/dtn7/dtn7-rs) ⭐ 113 | 🐛 8 | 🌐 Rust | 📅 2026-10-17 - Rust implementation of a DTN based on RFC9171
+* [HDTN](https://github.com/nasa/HDTN) ⭐ 151 | 🐛 38 | 🌐 C++ | 📅 2026-07-22 - High-rate Delay Tolerant Network (HDTN) Software
+* [dtn7-rs](https://github.com/dtn7/dtn7-rs) ⭐ 114 | 🐛 8 | 🌐 Rust | 📅 2026-10-17 - Rust implementation of a DTN based on RFC9171
 * [dtn7-go](https://github.com/dtn7/dtn7-go) ⭐ 33 | 🐛 1 | 🌐 Go | 📅 2026-02-24 - Delay-tolerant networking software suite
 * [DTNME](https://github.com/nasa/DTNME) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2026-10-14 - DTN Marshal Enterprise Implementation
 * [TERRA](https://github.com/RightMesh/Terra/) ⭐ 19 | 🐛 2 | 🌐 Java | 📅 2020-03-28 - Lightweight and extensible DTN library
@@ -29,10 +29,10 @@
 
 ## Bundle Protocol Version 6 - RFC 5050
 
-* [HDTN](https://github.com/nasa/HDTN) ⭐ 150 | 🐛 38 | 🌐 C++ | 📅 2026-07-22 - High-rate Delay Tolerant Network (HDTN) Software
+* [HDTN](https://github.com/nasa/HDTN) ⭐ 151 | 🐛 38 | 🌐 C++ | 📅 2026-07-22 - High-rate Delay Tolerant Network (HDTN) Software
 * [IBR-DTN](https://github.com/ibrdtn/ibrdtn) ⭐ 84 | 🐛 45 | 🌐 C++ | 📅 2026-09-02 - A modular and lightweight implementation of the bundle protocol.
+* [DTN2](https://github.com/delay-tolerant-networking/DTN2) ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2016-06-28 - DTN Reference Implementation
 * [DTNME](https://github.com/nasa/DTNME) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2026-10-14 - DTN Marshal Enterprise Implementation
-* [DTN2](https://github.com/delay-tolerant-networking/DTN2) ⭐ 24 | 🐛 0 | 🌐 C++ | 📅 2016-06-28 - DTN Reference Implementation
 * [rfc5050](https://tools.ietf.org/html/rfc5050) - Bundle Protocol Specification
 * [rfc6257](https://tools.ietf.org/html/rfc6257) - Bundle Security Protocol Specification
 * [ION-DTN](https://sourceforge.net/projects/ion-dtn/) - Delay-Tolerant Networking suitable for use in spacecraft
@@ -69,4 +69,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
