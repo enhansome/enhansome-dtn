@@ -66,7 +66,7 @@
             "id": 655719039,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-02-24T11:22:32Z",
+            "last_commit": "2026-10-23T18:02:46Z",
             "open_issues": 1,
             "owner": "dtn7",
             "repo": "dtn7-go",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T21:55:21.212Z",
+    "last_updated": "2026-10-23T21:40:45.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
