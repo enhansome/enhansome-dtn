@@ -13,8 +13,8 @@
 ## Bundle Protocol Version 7 - RFC 9171
 
 * [HDTN](https://github.com/nasa/HDTN) ⭐ 152 | 🐛 38 | 🌐 C++ | 📅 2026-07-22 - High-rate Delay Tolerant Network (HDTN) Software
-* [dtn7-rs](https://github.com/dtn7/dtn7-rs) ⭐ 114 | 🐛 7 | 🌐 Rust | 📅 2026-10-17 - Rust implementation of a DTN based on RFC9171
-* [dtn7-go](https://github.com/dtn7/dtn7-go) ⭐ 33 | 🐛 1 | 🌐 Go | 📅 2026-10-23 - Delay-tolerant networking software suite
+* [dtn7-rs](https://github.com/dtn7/dtn7-rs) ⭐ 115 | 🐛 7 | 🌐 Rust | 📅 2026-10-17 - Rust implementation of a DTN based on RFC9171
+* [dtn7-go](https://github.com/dtn7/dtn7-go) ⭐ 33 | 🐛 1 | 🌐 Go | 📅 2026-10-25 - Delay-tolerant networking software suite
 * [DTNME](https://github.com/nasa/DTNME) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2026-10-14 - DTN Marshal Enterprise Implementation
 * [TERRA](https://github.com/RightMesh/Terra/) ⭐ 19 | 🐛 2 | 🌐 Java | 📅 2020-03-28 - Lightweight and extensible DTN library
 * [NASA AMMOS BSL](https://github.com/NASA-AMMOS/BSL) ⭐ 16 | 🐛 43 | 🌐 C | 📅 2026-10-21 - C99 library implementation of Bundle Protocol Security (BPSec) as specified in RFC 9172 and RFC 9173
@@ -69,4 +69,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
