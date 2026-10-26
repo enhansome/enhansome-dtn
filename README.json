@@ -16,7 +16,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-07-22T20:54:31Z",
-            "open_issues": 38,
+            "open_issues": 43,
             "owner": "nasa",
             "repo": "HDTN",
             "stars": 152,
@@ -66,7 +66,7 @@
             "id": 655719039,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T20:01:27Z",
+            "last_commit": "2026-10-25T21:45:07Z",
             "open_issues": 1,
             "owner": "dtn7",
             "repo": "dtn7-go",
@@ -211,7 +211,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-07-22T20:54:31Z",
-            "open_issues": 38,
+            "open_issues": 43,
             "owner": "nasa",
             "repo": "HDTN",
             "stars": 152,
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T21:14:21.144Z",
+    "last_updated": "2026-10-26T22:52:21.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
