@@ -39,7 +39,7 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-17T20:25:48Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "dtn7",
             "repo": "dtn7-rs",
             "stars": 115,
@@ -135,8 +135,8 @@
             "id": 782077208,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T21:59:57Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-28T17:40:51Z",
+            "open_issues": 37,
             "owner": "NASA-AMMOS",
             "repo": "BSL",
             "stars": 16,
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T22:37:07.967Z",
+    "last_updated": "2026-10-28T22:51:48.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
