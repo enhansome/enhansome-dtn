@@ -42,7 +42,7 @@
             "open_issues": 10,
             "owner": "dtn7",
             "repo": "dtn7-rs",
-            "stars": 117,
+            "stars": 118,
             "topics": [
               "bundle-protocol",
               "delay-tolerant-network",
@@ -70,7 +70,7 @@
             "open_issues": 1,
             "owner": "dtn7",
             "repo": "dtn7-go",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "bundle-protocol",
               "delay-tolerant-network",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:30:39.440Z",
+    "last_updated": "2026-11-07T22:17:35.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
@@ -536,7 +536,7 @@
       "open_issues": 2,
       "owner": "dtn7",
       "repo": "awesome-dtn",
-      "stars": 65,
+      "stars": 66,
       "topics": [
         "awesome",
         "awesome-list",
