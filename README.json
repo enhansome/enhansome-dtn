@@ -135,8 +135,8 @@
             "id": 782077208,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T15:27:13Z",
-            "open_issues": 41,
+            "last_commit": "2026-11-11T04:53:28Z",
+            "open_issues": 40,
             "owner": "NASA-AMMOS",
             "repo": "BSL",
             "stars": 16,
@@ -423,7 +423,7 @@
             "id": 633816629,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-11-10T15:41:30Z",
+            "last_commit": "2026-11-11T08:55:40Z",
             "open_issues": 3,
             "owner": "gh0st42",
             "repo": "PONS",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:43:32.117Z",
+    "last_updated": "2026-11-12T00:59:37.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",

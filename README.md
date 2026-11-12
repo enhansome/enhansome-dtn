@@ -17,7 +17,7 @@
 * [dtn7-go](https://github.com/dtn7/dtn7-go) ⭐ 34 | 🐛 1 | 🌐 Go | 📅 2026-10-25 - Delay-tolerant networking software suite
 * [DTNME](https://github.com/nasa/DTNME) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2026-10-14 - DTN Marshal Enterprise Implementation
 * [TERRA](https://github.com/RightMesh/Terra/) ⭐ 19 | 🐛 2 | 🌐 Java | 📅 2020-03-28 - Lightweight and extensible DTN library
-* [NASA AMMOS BSL](https://github.com/NASA-AMMOS/BSL) ⭐ 16 | 🐛 41 | 🌐 C | 📅 2026-11-10 - C99 library implementation of Bundle Protocol Security (BPSec) as specified in RFC 9172 and RFC 9173
+* [NASA AMMOS BSL](https://github.com/NASA-AMMOS/BSL) ⭐ 16 | 🐛 40 | 🌐 C | 📅 2026-11-11 - C99 library implementation of Bundle Protocol Security (BPSec) as specified in RFC 9172 and RFC 9173
 * [dtn7-kotlin](https://github.com/NodleCode/dtn7-kotlin/) ⭐ 13 | 🐛 1 | 🌐 Kotlin | 📅 2022-12-22 - Delay-tolerant networking software suite for Kotlin
 * [dtn7zero](https://github.com/dtn7/dtn7zero) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-10-11 - A python implementation of BPv7 in the spirit of the NetworkZero and GuiZero libraries
 * [rfc9171](https://tools.ietf.org/html/rfc9171) - Bundle Protocol Specification Version 7
@@ -47,7 +47,7 @@
 * [TheONE](https://github.com/akeranen/the-one) ⭐ 248 | 🐛 48 | 🌐 Java | 📅 2024-12-09 - The Opportunistic Network Environment simulator.
 * [OPS](https://github.com/ComNets-Bremen/OPS) ⭐ 15 | 🐛 4 | 🌐 C++ | 📅 2023-10-17 - The Opportunistic Protocol Simulator (OPS, pronounced as oops!!!) is a set of simulation models for OMNeT++ to simulate opportunistic networks.
 * [pydtnsim](https://github.com/ducktec/pydtnsim) ⭐ 14 | 🐛 11 | 🌐 Python | 📅 2022-12-09 - An event-discrete DTN simulation environment written in Python. Focused on evaluating routing approaches.
-* [PONS](https://github.com/gh0st42/PONS) ⭐ 13 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-11-10 - The Python Opportunistic Network Simulator. Run DTN simulations using SimPy.
+* [PONS](https://github.com/gh0st42/PONS) ⭐ 13 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-11-11 - The Python Opportunistic Network Simulator. Run DTN simulations using SimPy.
 * [ns3 dtn bit](https://github.com/bit-oh-my-god/ns3-dtn-bit) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2018-06-02 - This Project is a newbie-friendly simulation for dtn on ns-3 environment, easy to use for research purpuses, supporting customed routing definition and scenario definition.
 * [dtnsim](https://github.com/h-ohsaki/dtnsim) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-05-20 - dtnsim is a DTN (Delay/Disruption-Tolerant Networking) simulator written in Python.
 * [ns3 dtn](https://github.com/sergiosvieira/ns3-dtn) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2012-07-23 - rfc 5050 implementation for ns3, mostly undocumented
@@ -69,4 +69,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
