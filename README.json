@@ -39,7 +39,7 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-17T20:25:48Z",
-            "open_issues": 11,
+            "open_issues": 15,
             "owner": "dtn7",
             "repo": "dtn7-rs",
             "stars": 118,
@@ -67,7 +67,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-10-25T21:45:07Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "dtn7",
             "repo": "dtn7-go",
             "stars": 34,
@@ -354,7 +354,7 @@
             "open_issues": 48,
             "owner": "akeranen",
             "repo": "the-one",
-            "stars": 248,
+            "stars": 249,
             "topics": [
               "delay-tolerant-network",
               "simulator"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T23:52:49.408Z",
+    "last_updated": "2026-11-13T23:52:29.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
