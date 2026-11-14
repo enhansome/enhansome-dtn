@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "nasa",
             "repo": "HDTN",
-            "stars": 152,
+            "stars": 151,
             "topics": [
               "dtn"
             ]
@@ -214,7 +214,7 @@
             "open_issues": 43,
             "owner": "nasa",
             "repo": "HDTN",
-            "stars": 152,
+            "stars": 151,
             "topics": [
               "dtn"
             ]
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T23:52:29.598Z",
+    "last_updated": "2026-11-14T22:44:35.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
