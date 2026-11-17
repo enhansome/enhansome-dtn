@@ -13,11 +13,11 @@
 ## Bundle Protocol Version 7 - RFC 9171
 
 * [HDTN](https://github.com/nasa/HDTN) ⚠️ Archived - High-rate Delay Tolerant Network (HDTN) Software
-* [dtn7-rs](https://github.com/dtn7/dtn7-rs) ⭐ 118 | 🐛 15 | 🌐 Rust | 📅 2026-10-17 - Rust implementation of a DTN based on RFC9171
+* [dtn7-rs](https://github.com/dtn7/dtn7-rs) ⭐ 119 | 🐛 15 | 🌐 Rust | 📅 2026-10-17 - Rust implementation of a DTN based on RFC9171
 * [dtn7-go](https://github.com/dtn7/dtn7-go) ⭐ 34 | 🐛 2 | 🌐 Go | 📅 2026-10-25 - Delay-tolerant networking software suite
 * [DTNME](https://github.com/nasa/DTNME) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2026-10-14 - DTN Marshal Enterprise Implementation
 * [TERRA](https://github.com/RightMesh/Terra/) ⭐ 19 | 🐛 2 | 🌐 Java | 📅 2020-03-28 - Lightweight and extensible DTN library
-* [NASA AMMOS BSL](https://github.com/NASA-AMMOS/BSL) ⭐ 16 | 🐛 40 | 🌐 C | 📅 2026-11-12 - C99 library implementation of Bundle Protocol Security (BPSec) as specified in RFC 9172 and RFC 9173
+* [NASA AMMOS BSL](https://github.com/NASA-AMMOS/BSL) ⭐ 16 | 🐛 32 | 🌐 C | 📅 2026-11-16 - C99 library implementation of Bundle Protocol Security (BPSec) as specified in RFC 9172 and RFC 9173
 * [dtn7-kotlin](https://github.com/NodleCode/dtn7-kotlin/) ⭐ 13 | 🐛 1 | 🌐 Kotlin | 📅 2022-12-22 - Delay-tolerant networking software suite for Kotlin
 * [dtn7zero](https://github.com/dtn7/dtn7zero) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-10-11 - A python implementation of BPv7 in the spirit of the NetworkZero and GuiZero libraries
 * [rfc9171](https://tools.ietf.org/html/rfc9171) - Bundle Protocol Specification Version 7
@@ -69,4 +69,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
