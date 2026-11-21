@@ -30,7 +30,7 @@
 ## Bundle Protocol Version 6 - RFC 5050
 
 * [HDTN](https://github.com/nasa/HDTN) ⚠️ Archived - High-rate Delay Tolerant Network (HDTN) Software
-* [IBR-DTN](https://github.com/ibrdtn/ibrdtn) ⭐ 84 | 🐛 45 | 🌐 C++ | 📅 2026-09-02 - A modular and lightweight implementation of the bundle protocol.
+* [IBR-DTN](https://github.com/ibrdtn/ibrdtn) ⭐ 83 | 🐛 45 | 🌐 C++ | 📅 2026-09-02 - A modular and lightweight implementation of the bundle protocol.
 * [DTN2](https://github.com/delay-tolerant-networking/DTN2) ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2016-06-28 - DTN Reference Implementation
 * [DTNME](https://github.com/nasa/DTNME) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2026-10-14 - DTN Marshal Enterprise Implementation
 * [rfc5050](https://tools.ietf.org/html/rfc5050) - Bundle Protocol Specification

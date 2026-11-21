@@ -237,7 +237,7 @@
             "open_issues": 45,
             "owner": "ibrdtn",
             "repo": "ibrdtn",
-            "stars": 84,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.929Z"
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:15:04.078Z",
+    "last_updated": "2026-11-21T23:35:10.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
