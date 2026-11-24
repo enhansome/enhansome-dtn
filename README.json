@@ -135,8 +135,8 @@
             "id": 782077208,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T01:37:12Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-23T21:20:20Z",
+            "open_issues": 27,
             "owner": "NASA-AMMOS",
             "repo": "BSL",
             "stars": 16,
@@ -233,7 +233,7 @@
             "id": 8705653,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-02T05:19:35Z",
+            "last_commit": "2026-11-23T22:26:54Z",
             "open_issues": 45,
             "owner": "ibrdtn",
             "repo": "ibrdtn",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T23:50:27.239Z",
+    "last_updated": "2026-11-24T04:04:54.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
