@@ -136,7 +136,7 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-23T21:20:20Z",
-            "open_issues": 27,
+            "open_issues": 31,
             "owner": "NASA-AMMOS",
             "repo": "BSL",
             "stars": 16,
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T02:46:34.199Z",
+    "last_updated": "2026-11-26T01:56:42.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome delay- and disruption-tolerant networking",
